@@ -22,3 +22,20 @@ Built five dashboards using Google Sheets charts.
 Combined all charts into one interactive dashboard.
 Highlighted key insights and visual trends from the data.
 
+## Dashboard
+<img width="1913" height="883" alt="Picture1" src="https://github.com/user-attachments/assets/e232e61f-6806-4c59-9402-cbcf79176db1" />
+<img width="1919" height="918" alt="Picture2" src="https://github.com/user-attachments/assets/96b17e87-18a1-460c-8d1a-edede58c6b09" />
+
+## Project Insights
+•	Netflix’s content library has grown significantly over the years.
+•	Movies make up a larger portion of the catalog, but TV shows are increasing steadily.
+•	Drama, Comedy, and Documentary are among the most popular genres.
+•	The United States and India are top content-producing countries.
+•	Most titles are rated TV-MA and TV-14, indicating a focus on mature audiences.
+
+## conclusion
+This analysis provides a clear overview of Netflix’s content trends using simple tools like Google Sheets.
+By visualizing data through pivot tables and charts, key patterns in genres, ratings, and content types become easy to understand.
+The dashboard serves as an accessible tool for stakeholders to explore Netflix’s global content strategy and audience focus.
+
+

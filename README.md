@@ -14,3 +14,11 @@ The objective of this project is to analyze and visualize Netflix’s content li
 8.	Dashboard Interaction<a href="https://github.com/Akash446-RM/Data-Analysis/blob/main/Picture1.png">View dashboard</a>
 9.	 Dashboard Interaction1<a href="https://github.com/Akash446-RM/Data-Analysis/blob/main/Picture2.png"> View dashboard1</a>
 
+## Process
+Imported Netflix dataset (CSV) into Google Sheets.
+Cleaned data — removed blanks, fixed date formats, and split genres.
+Created pivot tables for content, genre, type, country, and rating analysis.
+Built five dashboards using Google Sheets charts.
+Combined all charts into one interactive dashboard.
+Highlighted key insights and visual trends from the data.
+

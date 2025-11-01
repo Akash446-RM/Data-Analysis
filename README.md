@@ -1,6 +1,6 @@
 # Netflix Data Analysis & Dashboard in Google Sheets
-## objective
-The objective of this project is to analyze and visualize Netflix’s content library using Google Sheets to uncover trends, patterns, and insights
+## Objective
+The primary objective of the Netflix Data Analysis project is to derive meaningful insights from the available dataset to understand the platform’s content distribution, audience preferences, and growth trends. This analysis aims to support data-driven decisions that enhance content strategy, improve user experience, and strengthen business performance. The project focuses on examining various aspects such as the distribution of movies and TV shows, the popularity of different genres, content release patterns over the years, and country-wise content contribution. Additionally, it analyzes average movie durations, the number of TV show seasons, and content ratings to better understand Netflix’s target audience and content diversity. Through this analysis, the project seeks to provide valuable insights and recommendations that can assist stakeholders in optimizing content acquisition, marketing strategies, and personalized recommendation systems.
 ## Dataset used
  <a href="https://github.com/Akash446-RM/Data-Analysis/blob/main/Netflix_Titles.xlsx">Data Used</a>
 ## Questions
